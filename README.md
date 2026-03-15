@@ -94,15 +94,15 @@ By day I architect ERPNext solutions at **SmartChoice IQ**, by night I explore c
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AMN-2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMN-2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=818CF8&currStreakLabel=CBD5E1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AMN-2&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=818CF8&currStreakLabel=CBD5E1)](https://git.io/streak-stats)
 
 </div>
 
@@ -125,7 +125,7 @@ current_focus = {
 
 <div align="center">
 
-[![Ameen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0F172A&color=38BDF8&line=818CF8&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ameen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AMN-2&bg_color=0F172A&color=38BDF8&line=818CF8&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -136,7 +136,7 @@ current_focus = {
 <div align="center">
 
 [![Website](https://img.shields.io/badge/SmartChoice_IQ-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8)](https://smartchoice-iq.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AMN-2)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
